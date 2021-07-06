@@ -1,0 +1,9 @@
+
+name: stocks
+
+dependencies:
+  - numpy
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
