@@ -4,6 +4,7 @@ download:
 
 install:
 	bash Miniconda3-py39_4.9.2-Linux-x86_64.sh
+	rm Miniconda3-py39_4.9.2-Linux-x86_64.sh
 
 
 stocks:
