@@ -8,4 +8,6 @@ install:
 
 
 stocks:
+	#conda deactivate
+	conda env remove --name stocks
 	conda env create --file stocks.yml
